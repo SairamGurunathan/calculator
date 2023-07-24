@@ -3,7 +3,7 @@ import Button from 'react-bootstrap/Button';
 
 
 
-function Calculator() {
+const Calculator = () => {
   return (
     <>
     <div className='container text-center'>
